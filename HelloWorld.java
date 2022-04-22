@@ -3,5 +3,7 @@ public class HelloWorld {
 
     void getStr(){
         System.out.println(p);
+        System.out.println(p);
+        System.out.println(p);
     }
 }
