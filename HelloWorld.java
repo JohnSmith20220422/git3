@@ -5,5 +5,8 @@ public class HelloWorld {
         System.out.println(p);
         System.out.println(p);
         System.out.println(p);
+        System.out.println(p);
+        System.out.println(p);
+        System.out.println(p);
     }
 }
